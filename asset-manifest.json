@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vpatt1031/react_employee_directory.git/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/vpatt1031/react_employee_directory.git/static/js/main.aba44cf5.chunk.js",
-    "main.js.map": "/vpatt1031/react_employee_directory.git/static/js/main.aba44cf5.chunk.js.map",
-    "runtime-main.js": "/vpatt1031/react_employee_directory.git/static/js/runtime-main.6c22a16d.js",
-    "runtime-main.js.map": "/vpatt1031/react_employee_directory.git/static/js/runtime-main.6c22a16d.js.map",
-    "static/js/2.1f3ff569.chunk.js": "/vpatt1031/react_employee_directory.git/static/js/2.1f3ff569.chunk.js",
-    "static/js/2.1f3ff569.chunk.js.map": "/vpatt1031/react_employee_directory.git/static/js/2.1f3ff569.chunk.js.map",
-    "static/js/3.f123e527.chunk.js": "/vpatt1031/react_employee_directory.git/static/js/3.f123e527.chunk.js",
-    "static/js/3.f123e527.chunk.js.map": "/vpatt1031/react_employee_directory.git/static/js/3.f123e527.chunk.js.map",
-    "index.html": "/vpatt1031/react_employee_directory.git/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/vpatt1031/react_employee_directory.git/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.1f3ff569.chunk.js.LICENSE.txt": "/vpatt1031/react_employee_directory.git/static/js/2.1f3ff569.chunk.js.LICENSE.txt"
+    "main.css": "/vpatt1031/react_employee_directory/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/vpatt1031/react_employee_directory/static/js/main.aba44cf5.chunk.js",
+    "main.js.map": "/vpatt1031/react_employee_directory/static/js/main.aba44cf5.chunk.js.map",
+    "runtime-main.js": "/vpatt1031/react_employee_directory/static/js/runtime-main.4fdcf588.js",
+    "runtime-main.js.map": "/vpatt1031/react_employee_directory/static/js/runtime-main.4fdcf588.js.map",
+    "static/js/2.1f3ff569.chunk.js": "/vpatt1031/react_employee_directory/static/js/2.1f3ff569.chunk.js",
+    "static/js/2.1f3ff569.chunk.js.map": "/vpatt1031/react_employee_directory/static/js/2.1f3ff569.chunk.js.map",
+    "static/js/3.f123e527.chunk.js": "/vpatt1031/react_employee_directory/static/js/3.f123e527.chunk.js",
+    "static/js/3.f123e527.chunk.js.map": "/vpatt1031/react_employee_directory/static/js/3.f123e527.chunk.js.map",
+    "index.html": "/vpatt1031/react_employee_directory/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/vpatt1031/react_employee_directory/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1f3ff569.chunk.js.LICENSE.txt": "/vpatt1031/react_employee_directory/static/js/2.1f3ff569.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c22a16d.js",
+    "static/js/runtime-main.4fdcf588.js",
     "static/js/2.1f3ff569.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.aba44cf5.chunk.js"
