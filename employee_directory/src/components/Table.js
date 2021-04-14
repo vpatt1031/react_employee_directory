@@ -10,16 +10,22 @@ const data = {
         width: 150
       },
       {
-        label: "Position",
-        field: "position",
-        sort: "asc",
-        width: 270
-      },
-      {
-        label: "Office",
-        field: "office",
+        label: "Email",
+        field: "email",
         sort: "asc",
         width: 200
+      },
+      {
+        label: "Phone",
+        field: "phone",
+        sort: "asc",
+        width: 200
+      },
+      {
+        label: "Location",
+        field: "city",
+        sort: "asc",
+        width: 150
       },
       {
         label: "Age",
@@ -28,87 +34,75 @@ const data = {
         width: 100
       },
       {
-        label: "Start date",
-        field: "date",
-        sort: "asc",
-        width: 150
-      },
-      {
-        label: "Salary",
-        field: "salary",
-        sort: "asc",
-        width: 100
-      },
-      {
         label: 'Photo',
         field: 'photo',
-        width: 250
+        width: 100
       }
     ],
     rows: [
       {
         name: "Tiger Nixon",
-        position: "System Architect",
-        office: "Edinburgh",
-        age: "61",
-        date: "2011/04/25",
-        salary: "$320"
+        email: "tiger.nixon@example.com",
+        phone: "903-962-7516",
+        city: "Los Angeles",
+        age: "26",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/40.jpg" className="img-fluid" alt="Tiger Nixon" />
       },
       {
         name: "Yuri Berry",
-        position: "Chief Marketing Officer (CMO)",
-        office: "New York",
-        age: "40",
-        date: "2009/06/25",
-        salary: "$675"
+        email: "yuri.berry@example.com",
+        phone: "251-981-9916",
+        city: "New York",
+        age: "50",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/5.jpg" className="img-fluid" alt="Yuri Berry" />
       },
       {
         name: "Caesar Vance",
-        position: "Pre-Sales Support",
-        office: "New York",
-        age: "21",
-        date: "2011/12/12",
-        salary: "$106"
+        email: "caesar.vance@example.com",
+        phone: "217-888-4561",
+        city: "San Diego",
+        age: "35",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/8.jpg" className="img-fluid" alt="Caesar Vance" />
       },
       {
         name: "Doris Wilder",
-        position: "Sales Assistant",
-        office: "Sidney",
-        age: "23",
-        date: "2010/09/20",
-        salary: "$85"
+        email: "doris.wilder@example.com",
+        phone: "703-251-1233",
+        city: "Los Angeles",
+        age: "38",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/40.jpg" className="img-fluid" alt="Doris Wilder" />
       },
       {
         name: "Angelica Ramos",
-        position: "Chief Executive Officer (CEO)",
-        office: "London",
-        age: "47",
-        date: "2009/10/09",
-        salary: "$1"
+        email: "angelic.ramos@example.com",
+        phone: "404-325-4458",
+        city: "New York",
+        age: "34",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/36.jpg" className="img-fluid" alt="Angelica Ramos" />
       },
       {
         name: "Gavin Joyce",
-        position: "Developer",
-        office: "Edinburgh",
-        age: "42",
-        date: "2010/12/22",
-        salary: "$92"
+        email: "gavin.joyce@example.com",
+        phone: "251-981-9916",
+        city: "San Diego",
+        age: "31",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/41.jpg" className="img-fluid" alt="Gavin Joyce" />
       },
       {
         name: "Jennifer Chang",
-        position: "Regional Director",
-        office: "Singapore",
-        age: "28",
-        date: "2010/11/14",
-        salary: "$357"
+        email: "jennifer.chang@example.com",
+        phone: "404-331-8978",
+        city: "New York",
+        age: "30",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/5.jpg" className="img-fluid" alt="Jennifer Chang" />
       },
       {
         name: "Brenden Wagner",
-        position: "Software Engineer",
-        office: "San Francisco",
-        age: "28",
-        date: "2011/06/07",
-        salary: "$206"
+        email: "yuri.berry@example.com",
+        phone: "805-851-4456",
+        city: "Los Angeles",
+        age: "25",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/10.jpg" className="img-fluid" alt="Brendan Wagner" />
       },
       {
         name: "Fiona Green",
