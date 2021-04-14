@@ -1,15 +1,16 @@
-import React from "react";
-import { BrowserRouter } from 'react-router-dom';
-import { MDBNav} from "mdbreact";
+// /* eslint-disable import/no-anonymous-default-export */
+// import React from "react";
+// import { BrowserRouter } from 'react-router-dom';
+// import { MDBNav} from "mdbreact";
 
-export default () => (
-  <BrowserRouter>
+// export default () => (
+//   <BrowserRouter>
 
-    <MDBNav>
+//     <MDBNav>
 
-        <h1>Employee Directory</h1>
+//         <div className='jumbotron'>Employee Directory</div>
 
-    </MDBNav>
+//     </MDBNav>
 
-  </BrowserRouter>
-);
+//   </BrowserRouter>
+// );

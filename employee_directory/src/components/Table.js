@@ -38,6 +38,11 @@ const data = {
         field: "salary",
         sort: "asc",
         width: 100
+      },
+      {
+        label: 'Photo',
+        field: 'photo',
+        width: 250
       }
     ],
     rows: [
@@ -138,12 +143,12 @@ const data = {
         salary: "$114"
       },
       {
-        name: "Prescott Bartlett",
+        name: "Mary Smith",
         position: "Technical Author",
         office: "London",
         age: "27",
         date: "2011/05/07",
-        salary: "$145"
+        photo: <img src="https://randomuser.me/api/portraits/thumb/women/5.jpg" className="img-fluid" alt="Mary Smith" />
       },
       {
         name: "Gavin Cortez",

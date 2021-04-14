@@ -1,7 +1,10 @@
-h1 {
-  color: blue
+.jumbotron {
+  font-weight: bold;
+  color: blue;
 }
-table {
+
+
+/* table {
   border-spacing: 0;
   border: 1px solid #ededed;
 }
@@ -63,4 +66,4 @@ input {
   border-radius: 5px;
   border: 1px solid #ddd;
   box-shadow: none;
-}
+} */
