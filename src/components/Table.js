@@ -98,7 +98,7 @@ const data = {
       },
       {
         name: "Brenden Wagner",
-        email: "yuri.berry@example.com",
+        email: "brendan.wagner@example.com",
         phone: "805-851-4456",
         city: "Los Angeles",
         age: "25",
@@ -106,100 +106,100 @@ const data = {
       },
       {
         name: "Fiona Green",
-        position: "Chief Operating Officer (COO)",
-        office: "San Francisco",
-        age: "48",
-        date: "2010/03/11",
-        salary: "$850"
+        email: "fiona.green@example.com",
+        phone: "202-321-6030",
+        city: "New York",
+        age: "27",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/12.jpg" className="img-fluid" alt="Fiona Green" />
       },
       {
-        name: "Shou Itou",
-        position: "Regional Marketing",
-        office: "Tokyo",
-        age: "20",
-        date: "2011/08/14",
-        salary: "$163"
+        name: "Grace Sanchez",
+        email: "grace.sanchez@example.com",
+        phone: "980-897-2132",
+        city: "New York",
+        age: "30",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/16.jpg" className="img-fluid" alt="Grace Sanchez" />
       },
       {
         name: "Michelle House",
-        position: "Integration Specialist",
-        office: "Sidney",
-        age: "37",
-        date: "2011/06/02",
-        salary: "$95"
+        email: "michelle.house@example.com",
+        phone: "454-741-8596",
+        city: "San Diego",
+        age: "33",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/20.jpg" className="img-fluid" alt="Michelle House" />
       },
       {
         name: "Suki Burks",
-        position: "Developer",
-        office: "London",
-        age: "53",
-        date: "2009/10/22",
-        salary: "$114"
+        email: "suki.burks@example.com",
+        phone: "980-989-4563",
+        city: "San Diego",
+        age: "34",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/21.jpg" className="img-fluid" alt="Suki Burks" />
       },
       {
         name: "Mary Smith",
-        position: "Technical Author",
-        office: "London",
-        age: "27",
-        date: "2011/05/07",
-        photo: <img src="https://randomuser.me/api/portraits/thumb/women/5.jpg" className="img-fluid" alt="Mary Smith" />
+        email: "mary.smith@example.com",
+        phone: "980-542-5879",
+        city: "San Diego",
+        age: "23",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/25.jpg" className="img-fluid" alt="Mary Smith" />
       },
       {
         name: "Gavin Cortez",
-        position: "Team Leader",
-        office: "San Francisco",
-        age: "22",
-        date: "2008/10/26",
-        salary: "$235"
+        email: "gavin.cortez@example.com",
+        phone: "805-897-7745",
+        city: "Los Angeles",
+        age: "25",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/32.jpg" className="img-fluid" alt="Gavin Cortez" />
       },
   
       {
         name: "Hermione Butler",
-        position: "Regional Director",
-        office: "London",
-        age: "47",
-        date: "2011/03/21",
-        salary: "$356"
+        email: "hermione.butler@example.com",
+        phone: "980-564-9754",
+        city: "San Diego",
+        age: "23",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/42.jpg" className="img-fluid" alt="Hermione Butler" />
       },
       {
-        name: "Lael Greer",
-        position: "Systems Administrator",
-        office: "London",
-        age: "21",
-        date: "2009/02/27",
-        salary: "$103"
+        name: "Liam Greer",
+        email: "liam.greer@example.com",
+        phone: "221-225-2323",
+        city: "New York",
+        age: "39",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/75.jpg" className="img-fluid" alt="Liam Greer" />
       },
       {
         name: "Jonas Alexander",
-        position: "Developer",
-        office: "San Francisco",
-        age: "30",
-        date: "2010/07/14",
-        salary: "$86"
+        email: "jonas.alexander@example.com",
+        phone: "805-331-1222",
+        city: "Los Angeles",
+        age: "45",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/99.jpg" className="img-fluid" alt="Jonas Alexander" />
       },
       {
         name: "Shad Decker",
-        position: "Regional Director",
-        office: "Edinburgh",
-        age: "51",
-        date: "2008/11/13",
-        salary: "$183"
+        email: "shad.decker@example.com",
+        phone: "804-568-9878",
+        city: "Los Angeles",
+        age: "29",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/98.jpg" className="img-fluid" alt="Shad Decker" />
       },
       {
         name: "Michael Bruce",
-        position: "Javascript Developer",
-        office: "Singapore",
-        age: "29",
-        date: "2011/06/27",
-        salary: "$183"
+        email: "michael.bruce@example.com",
+        phone: "805-331-1222",
+        city: "New York",
+        age: "31",
+        photo: <img src="https://randomuser.me/api/portraits/med/men/97.jpg" className="img-fluid" alt="Michael Bruce" />
       },
       {
         name: "Donna Snider",
-        position: "Customer Support",
-        office: "New York",
-        age: "27",
-        date: "2011/01/25",
-        salary: "$112"
+        email: "donna.snider@example.com",
+        phone: "980-564-9656",
+        city: "San Diego",
+        age: "23",
+        photo: <img src="https://randomuser.me/api/portraits/med/women/97.jpg" className="img-fluid" alt="Donna Snider" />
       }
     ]
   };
