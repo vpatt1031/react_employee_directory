@@ -97,7 +97,7 @@ const data = {
         photo: <img src="https://randomuser.me/api/portraits/med/women/5.jpg" className="img-fluid" alt="Jennifer Chang" />
       },
       {
-        name: "Brenden Wagner",
+        name: "Brendan Wagner",
         email: "brendan.wagner@example.com",
         phone: "805-851-4456",
         city: "Los Angeles",
